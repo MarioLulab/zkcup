@@ -1,0 +1,4 @@
+cube
+redbull
+magiccube
+beer
